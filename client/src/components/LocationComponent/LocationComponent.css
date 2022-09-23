@@ -1,0 +1,19 @@
+.main-component{
+    width: calc( 100% - 330px - 24px);
+    float: left;
+    margin: 25px 0px;
+    padding: 0;
+}
+
+.main-component h1{
+    background-color: #e4edf0;
+    padding: 10px 10px 10px 15px;
+    border-radius: 5px;
+}
+
+.location{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f2f7f8;
+}
