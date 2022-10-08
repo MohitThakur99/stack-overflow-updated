@@ -15,7 +15,7 @@ function App() {
 
     (function(d, m){
         var kommunicateSettings = 
-            {"appId":"1a8db6b55619d928f93d1550e19940911","popupWidget":true,"automaticChatOpenOnNavigation":true};
+            {"appId":"","popupWidget":true,"automaticChatOpenOnNavigation":true};
         var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
         s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
         var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
